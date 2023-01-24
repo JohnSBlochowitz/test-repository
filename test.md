@@ -1,6 +1,6 @@
 # Hey! This is just a test repository to test out some different features. 😊
 
-## ***Link to my profile!***
-- https://github.com/JohnSBlochowitz
+## ***Link to a good video***
+- https://youtu.be/dQw4w9WgXcQ
 
-_Included above link for fun_
+_cmon click it ......._
